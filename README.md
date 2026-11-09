@@ -1,16 +1,21 @@
-## Hi there 👋
+# Dash Voskuhl
 
-<!--
-**dashelvoskuhl/dashelvoskuhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the cofounder and CEO of [Nascoron](https://nascoron.com). Nascoron builds agentic decoy fleets that collect intelligence on criminal networks.
 
-Here are some ideas to get you started:
+## Now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building the Nascoron product.
+- Raising in spring 2027. Email me at dashvoskuhl24@gmail.com.
+
+## What I've built
+
+- **Nascoron** (2026 to now): cofounder and CEO.
+- **[Tethr](https://github.com/dashelvoskuhl/tethr)** (Jul to Nov 2026): a web app for booking a caregiver the way you book a ride. I was cofounder and CEO, ran product and design, and built the web app with Claude Code in 13 days (204 commits). We ran a private pilot with families from our waitlist.
+
+## How I build
+
+I build with Claude Code. I write the spec, design the UI, review what the model writes, and deploy. Each repo's README says what I did and what my cofounders did.
+
+## Links
+
+[nascoron.com](https://nascoron.com) · [LinkedIn](https://www.linkedin.com/in/dash-voskuhl-856945412/)
