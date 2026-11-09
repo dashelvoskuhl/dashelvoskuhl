@@ -14,7 +14,7 @@ I'm the cofounder and CEO of [Nascoron](https://nascoron.com). Nascoron builds a
 
 ## How I build
 
-I build with Claude Code. I write the spec, design the UI, review what the model writes, and deploy. Each repo's README says what I did and what my cofounders did.
+I build with Claude Code. I write the spec, design the UI, review what the model writes, and deploy.
 
 ## Links
 
