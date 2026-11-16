@@ -1,6 +1,6 @@
 # Dash Voskuhl
 
-Cofounder and CEO, [Nascoron](https://nascoron.com). Agentic decoy fleets that collect intelligence on criminal networks.
+Cofounder and CEO, [Nascoron](https://nascoron.com). Agentic decoy swarms that collect intelligence on criminal networks.
 
 ## Now
 
